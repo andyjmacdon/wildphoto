@@ -5,8 +5,8 @@ Read data file
 Run analysis
 
 Make table
-
+#make header bold
 Make header bold
 
-Make small figure, thick  red line
+Make small figure, thick red line
 
